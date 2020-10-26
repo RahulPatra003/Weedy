@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1062296178292-27ec24a0cg878prk5ufgoj3t2clsc989.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1062296178292-27ec24a0cg878prk5ufgoj3t2clsc989</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDD_PF_9k3S5eI3IzTUQGa2g2myu6Fn1oY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1062296178292</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Salace.weedy.Weedy</string>
+	<key>PROJECT_ID</key>
+	<string>weedy-73630</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weedy-73630.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1062296178292:ios:273cc6ab8e523e893c4b21</string>
+	<key>DATABASE_URL</key>
+	<string>https://weedy-73630.firebaseio.com</string>
+</dict>
+</plist>
